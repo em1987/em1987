@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iamemiliano
-- 👀 I’m interested in create an automated market makers.
+- 👀 I’m interested in create automated market makers.
 - 🌱 I’m currently learning about IOTA
 - 💞️ I’m looking to find devs interested in develop new app's
 
